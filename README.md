@@ -25,6 +25,6 @@ I am a student of BS Computer Science at New Era University, with a flair for co
 - Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## You may reach me at
-- LinkedIn: [LinkedIn profile link](https://www.linkedin.com/in/kenneth-bryan-escsla-b305161a1)
+- LinkedIn: [Kenneth Bryan Escsla](https://www.linkedin.com/in/kenneth-bryan-escsla-b305161a1)
 - Email: kent.escala143@gmail.com
 
