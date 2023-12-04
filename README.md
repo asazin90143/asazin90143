@@ -11,7 +11,7 @@ I am a student of BS Computer Science at New Era University, with a flair for co
   - New Era University
   -   2018-Present
 
-  Senior Hihgshool
+  Senior Highshool
   - Information and Communication Technologies
   - AMA Computer College
   - 2016 - 2018
