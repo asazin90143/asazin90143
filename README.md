@@ -1,7 +1,7 @@
 # Hi, I'm Kenneth Bryan Escala 👋
 
 ## About me
-I am a student of BS Computer Science at New Era University, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program. But I'm not just a tech geek. I'm also a passionate traveler, a music lover, and a coffee addict. I enjoy exploring new places, cultures, and cuisines. I also sing in my spare time. And I can't start my day without a cup of freshly brewed coffee. ☕
+I am a student of BS Computer Science at New Era University, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Computer Science program. But I'm not just a tech geek. I'm also a passionate traveler, a music lover, and a coffee addict. I enjoy exploring new places, cultures, and cuisines. I also sing in my spare time. And I can't start my day without a cup of freshly brewed coffee. ☕
 
 
 ## Education
