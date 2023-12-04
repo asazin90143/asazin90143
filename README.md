@@ -9,6 +9,10 @@ I am a student of BS Computer Science at New Era University, with a flair for co
 - New Era University
 - 2018-Present
 
+- Information and Communication Technologies
+- AMA Computer College
+- 2016 - 2018
+  
 ## Certification
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8DF078141A0A68FB8C11EE850E33CABEB5F77F17B7809B100541DA7A119DEFA)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9871AF79E8C76FF7A0129D9709621DA7C507445372989DE1F38389AAE7256E8F)
