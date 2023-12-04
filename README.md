@@ -6,12 +6,12 @@ I am a student of BS Computer Science at New Era University, with a flair for co
 
 ## Education
 
-  #Collage
+  Collage
   - BS Computer Science
   - New Era University
   -   2018-Present
 
-  -Senior Hihgshool
+  Senior Hihgshool
   - Information and Communication Technologies
   - AMA Computer College
   - 2016 - 2018
