@@ -23,7 +23,7 @@ I am a student of BS Computer Science at New Era University, with a flair for co
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/811d6c9c23da451dbfb2a5d4d4bad4bc)
 
 ## Skill sets
-- Programming :  Java, Javascript,
+- Programming :  Java, Javascript, SQL
 - Databases: IBM DB2 Cloud
 - Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
