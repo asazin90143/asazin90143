@@ -1,74 +1,33 @@
-![Profile Views](https://komarev.com/ghpvc/?username=lyndoncatan&label=Profile%20Views&color=blue&style=flat-square)
+# Hi, I'm Kenneth Bryan Escala 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Kenneth+Bryan+Escala!;Welcome+to+my+GitHub+Profile!" />
-</p>
-
-
-## 👨‍💻 About Me
-Passionate about building scalable web applications, crafting beautiful UI/UX designs, and optimizing user experiences. I specialize in frontend, creating sleek, modern interfaces and robust server-side solutions.
+## About me
+I am a student of BS Computer Science at New Era University, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Computer Science program. But I'm not just a tech geek. I'm also a passionate traveler, a music lover, and a coffee addict. I enjoy exploring new places, cultures, and cuisines. I also sing in my spare time. And I can't start my day without a cup of freshly brewed coffee. ☕
 
 
+## Education
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,supabase,sql,git,github,figma,vscode,eclipse" />
-</p>
+  Collage
+  - BS Computer Science
+  - New Era University
+  -   2018-Present
 
----
+  Senior Highshool
+  - Information and Communication Technologies
+  - AMA Computer College
+  - 2016 - 2018
+  
+## Certification
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8DF078141A0A68FB8C11EE850E33CABEB5F77F17B7809B100541DA7A119DEFA)
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9871AF79E8C76FF7A0129D9709621DA7C507445372989DE1F38389AAE7256E8F)
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9871AF79E8C76FF7A0129D9709621DA7C507445372989DE1F38389AAE7256E8F)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/811d6c9c23da451dbfb2a5d4d4bad4bc)
 
-## 🏆 Certifications
-<p align="center">
-  <a href="https://courses.cognitiveclass.ai/certificates/22721d0de4754dc5886de40f4bb5f99f" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20and%20Relational%20Databases%20101-Click%20to%20View-blue?style=for-the-badge&logo=oracle"/>
-  </a>
-  <br>
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EBD6649F5E8A7E6551637DB112D71CCA118CBB4B7171B05EDC3CDC78C3F65574" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Certified%20Foundations%20Associate-Click%20to%20View-orange?style=for-the-badge&logo=oracle"/>
-  </a>
-  <br>
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EBD6649F5E8A7E6551637DB112D71CCAD1DC41B1394EC614343A0F81173C4223" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Data%20Certified%20Foundations%20Associate-Click%20to%20View-red?style=for-the-badge&logo=oracle"/>
-  </a>
-  <br>
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=EBD6649F5E8A7E6551637DB112D71CCAD1DC41B1394EC614343A0F81173C4223" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%202024%20Certified%20AI%20Foundations%20Associate-Click%20to%20View-purple?style=for-the-badge&logo=oracle"/>
-  </a>
-</p>
+## Skill sets
+- Programming :  Java, Javascript, SQL
+- Databases: IBM DB2 Cloud
+- Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
----
-
-
-## 📫 Get in Touch
-<p align="center">
-  <a href="mailto:Lyndoncatan75@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lyndon-domini-m-catan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://catandev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-green?style=for-the-badge&logo=vercel"/>
-  </a>
-</p>
-
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyndoncatan&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyndoncatan&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyndoncatan&layout=compact&theme=radical" />
-</p>
-
-
-
-<p align="center">⭐ **Feel free to explore my repositories and drop a star if you like my work!** ⭐
- </p>
-
+## You may reach me at
+- LinkedIn: [Kenneth Bryan Escsla](https://www.linkedin.com/in/kenneth-bryan-escsla-b305161a1)
+- Email: kent.escala143@gmail.com
 
