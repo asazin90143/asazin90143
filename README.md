@@ -1,11 +1,11 @@
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=asazin90143&label=Profile%20Views&color=blue&style=flat-square)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Kenneth+Bryan+Escala!;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 ## 👨‍💻 About Me
-Passionate about building scalable web applications, crafting beautiful UI/UX designs, and optimizing user experiences. I specialize in frontend, creating sleek, modern interfaces and robust server-side solutions.
+I am a dedicated builder, focused on crafting the complete user experience. I thrive on the challenge that feel intuitive and then backing them up with resilient, optimized server-side code. I'm passionate about clean architecture and ensuring every project is scalable from prototype to production.
 
 ## 🛠 Tech Stack
 <p align="center">
